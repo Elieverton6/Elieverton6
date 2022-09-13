@@ -1,10 +1,10 @@
-- 👋 Hi, Me Chamo Elieverton Gomes
-- 💻 Desenvolvedor Front End
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, meu nome e Elieverton Gomes
+💻 Desenvolvedor Front End
+🍀 Atualmente estudando ReactJS e JavaScript
+💕 Sou apaixonado por Programação
 
-<!---
-Elieverton6/Elieverton6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💌 Email: elievertongomesff@gmail.com 
+
+<div>
+    <a href="elievertongomes.site/"></a>
+</div>
