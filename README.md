@@ -4,7 +4,7 @@
 - 🍀 Atualmente estudando ReactJS e JavaScript
 - 💕 Sou apaixonado por Programação
 
--- 💌 Email: elievertongomesff@gmail.com 
+- 💌 Email: elievertongomesff@gmail.com 
 
 <div>
     <a href="elievertongomes.site/"></a>
