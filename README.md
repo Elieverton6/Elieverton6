@@ -25,5 +25,11 @@ Olá <img width="40px" src="https://raw.githubusercontent.com/MartinHeinz/Martin
 </a>
 </h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Elieverton6= &theme=radical)
+<div align="center">
+  <a href="https://github.com/Elieverton6">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elieverton6&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elieverton6&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
  
