@@ -25,5 +25,5 @@ Olá <img width="40px" src="https://raw.githubusercontent.com/MartinHeinz/Martin
 </a>
 </h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Elieverton6= &theme=radical)
  
