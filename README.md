@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello <img width="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, my name is Elieverton Gomes<br>Developer Front-End
+Hello <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, my name is Elieverton Gomes<br>Developer Front-End
 <br/><br/>
 <div align="center">
 <img src="https://elievertongomes.site/images/html5-1.png"/>
