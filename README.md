@@ -1,7 +1,5 @@
 <div align="center">
- <h2>
- Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, my name is Elieverton Gomes<br/>Desenvolvedor Front-End<br/><br/>
- </h2>
+    <h2>Hello<img width="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, my name is Elieverton Gomes<br/>💻 Developer Front-End</h2>
 </div>
 
 <div align="center">
