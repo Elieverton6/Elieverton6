@@ -1,5 +1,5 @@
 <h1 align="center">
-Olá, me chamo Elieverton Gomes<br>Desenvolvedor Front-End
+Olá, me chamo Elieverton Gomes<br>Desenvolvedor Front-End <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
 <br/><br/>
 🚀 Sobre Mim
 <br/><br/>
