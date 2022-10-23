@@ -1,6 +1,6 @@
  <h1 align="center">
  Olá, me chamo Elieverton Gomes<br>Desenvolvedor Front-End
- <br/><br/>
+ <br/><br/><br/>
   🚀 Sobre Mim
  <br/><br/>
  <p>Meu nome é Elieverton Gomes, ou “Egzinn” (é como me chamam). Sou Desenvolvedor Front-End, Desenvolvo interfaces modernas e de alta qualidade, concentrado em performance, responsividade e SEO.</p>
