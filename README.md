@@ -2,12 +2,12 @@
 Hello <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, my name is Elieverton Gomes<br>Developer Front-End
 <br/><br/>
 <div align="center">
-<img src="https://elievertongomes.site/images/html5-1.png"/>
-<img src="https://elievertongomes.site/images/css3-1.png"/>
-<img src="https://elievertongomes.site/images/js5-1.png"/>
-<img src="https://elievertongomes.site/images/react-1.png"/>
-<img src="https://elievertongomes.site/images/jquery-1.png"/>
-<img src="https://elievertongomes.site/images/boostrap-1.png"/>
+<img src="https://elievertongomes.site/images/html5-1.webp"/>
+<img src="https://elievertongomes.site/images/css3-1.webp"/>
+<img src="https://elievertongomes.site/images/js5-1.webp"/>
+<img src="https://elievertongomes.site/images/react-1.webp"/>
+<img src="https://elievertongomes.site/images/jquery-1.webp"/>
+<img src="https://elievertongomes.site/images/boostrap-1.webp"/>
 <br/><br/>
 </div
 <div align="center">
