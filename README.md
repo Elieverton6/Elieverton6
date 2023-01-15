@@ -1,14 +1,19 @@
 <h1 align="center">
-Hello <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, my name is Elieverton Gomes<br>Developer Front-End
-<br/><br/>
+Olá, seja bem vindo ao meu perfil do GitHub! <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/><br/>Me chamo Elieverton Gomes<br/>e sou Desenvolvedor Front-End Web
+<br/><br/>Conhecimentos 🔨
 <div align="center">
+<br/>
 <img src="https://elievertongomes.site/images/nextjs-1.webp"/>
 <img src="https://elievertongomes.site/images/react-1.webp"/>
 <img src="https://elievertongomes.site/images/js5-1.webp"/>
 <img src="https://elievertongomes.site/images/typescript-1.webp"/>
 <img src="https://elievertongomes.site/images/styledcomponents-1.webp"/>
-<img src="https://elievertongomes.site/images/htm5-1.webp"/>
+<img src="https://elievertongomes.site/images/html5-1.webp"/><br/>
 <img src="https://elievertongomes.site/images/css3-1.webp"/>
+  <img src="https://elievertongomes.site/images/boostrap-1.webp"/>
+<img src="https://elievertongomes.site/images/git-1.webp"/>
+<img src="https://elievertongomes.site/images/vercel-1.webp"/>
+<img src="https://elievertongomes.site/images/vscode-1.webp"/>
 <img src="https://elievertongomes.site/images/git-1.webp"/>
 <br/><br/>
 </div
