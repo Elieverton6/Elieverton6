@@ -1,6 +1,6 @@
 <h1 align="center">
 Olá, seja bem vindo ao meu perfil do GitHub! <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/><br/>Me chamo Elieverton Gomes<br/>e sou Desenvolvedor Front-End Web
-<br/><br/>Conhecimentos 🔨
+ <br/><br/>Conhecimentos 🔨
 <div align="center">
 <br/>
 <img src="https://elievertongomes.site/images/nextjs-1.webp"/>
@@ -10,7 +10,7 @@ Olá, seja bem vindo ao meu perfil do GitHub! <img width="35px" src="https://raw
 <img src="https://elievertongomes.site/images/styledcomponents-1.webp"/>
 <img src="https://elievertongomes.site/images/html5-1.webp"/><br/>
 <img src="https://elievertongomes.site/images/css3-1.webp"/>
-  <img src="https://elievertongomes.site/images/boostrap-1.webp"/>
+ <img src="https://elievertongomes.site/images/boostrap-1.webp"/>
 <img src="https://elievertongomes.site/images/git-1.webp"/>
 <img src="https://elievertongomes.site/images/vercel-1.webp"/>
 <img src="https://elievertongomes.site/images/vscode-1.webp"/>
@@ -18,6 +18,7 @@ Olá, seja bem vindo ao meu perfil do GitHub! <img width="35px" src="https://raw
 <br/><br/>
 </div
 <div align="center">
+Deseja falar comigo? 📞<br/><br/>
 <a href="https://www.linkedin.com/in/elieverton-gomes-320b2223a/">
 <img   src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
 </a>
