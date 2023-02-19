@@ -1,4 +1,4 @@
-<h1 align="center">
+<h2 align="center">
 Olá, seja bem vindo ao meu perfil do GitHub! <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/><br/>Me chamo Elieverton Gomes<br/>e sou Desenvolvedor Front-End Web
  <br/><br/>Conhecimentos 🔨
 <div align="center">
@@ -36,4 +36,4 @@ Deseja falar comigo? 📞<br/><br/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elieverton6&theme=dracula&hide_border=false&&layout=compact"/>
 </a>
 </div>
-</h1>
+</h2>
