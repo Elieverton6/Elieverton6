@@ -27,7 +27,7 @@
 
 <div align='center'> 
 
-[![Victor stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&theme=merko )](https://github.com/victorSmenezes/github-readme-stats)
+[![Elieverton stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&theme=merko )](https://github.com/victorSmenezes/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSmenezes&theme=blue-green)](https://github.com/victorSmenezes/github-readme-stats)
   
 </div>
