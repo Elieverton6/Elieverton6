@@ -1,39 +1,35 @@
-<h2 align="center">
-Olá, seja bem vindo ao meu perfil do GitHub! <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/><br/>Me chamo Elieverton Gomes<br/>e sou Desenvolvedor Front-End Web
- <br/><br/>Conhecimentos 🔨
-<div align="center">
-<br/>
-<img src="https://elievertongomes.site/images/nextjs-1.webp"/>
-<img src="https://elievertongomes.site/images/react-1.webp"/>
-<img src="https://elievertongomes.site/images/js5-1.webp"/>
-<img src="https://elievertongomes.site/images/typescript-1.webp"/>
-<img src="https://elievertongomes.site/images/styledcomponents-1.webp"/>
-<img src="https://elievertongomes.site/images/html5-1.webp"/><br/>
-<img src="https://elievertongomes.site/images/css3-1.webp"/>
- <img src="https://elievertongomes.site/images/boostrap-1.webp"/>
-<img src="https://elievertongomes.site/images/git-1.webp"/>
-<img src="https://elievertongomes.site/images/vercel-1.webp"/>
-<img src="https://elievertongomes.site/images/vscode-1.webp"/>
-<img src="https://elievertongomes.site/images/git-1.webp"/>
-<br/><br/>
-</div
-<div align="center">
-Deseja falar comigo? 📞<br/><br/>
-<a href="https://www.linkedin.com/in/elieverton-gomes-320b2223a/">
-<img   src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
-</a>
-<a href="mailto:elievertongomesff@gmail.com">
-<img   src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
-</a>
-<a href="https://elievertongomes.site/">
-<img   src="https://camo.githubusercontent.com/992817a4faf2ac4a0c0be283728c2c09d06c2703acce2ad8bf31f27a0a3b9174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465"/>
-<br/><br/>
-</a>
+### Olá, Sou Elieverton Gomes ☕
+
+<h4>Programador Front-End, atualmente cursando na Danki Code e Udemy, aprendendo Front-End e desenvolvendo diversos projetos em JavaScript e ReactJs!
+</h4>
+<h4>Sinta-se à vontade para ver meus projetos😁</h4>
+<br>
+<br>
+
+<div style="display: flex"> 
+  <a href="https://www.linkedin.com/in/elieverton-gomes-320b2223a/" target"_blank" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  
+  <a href="https://www.instagram.com/victor_santtz/" target="_blank"/><img src="https://www.instagram.com/_elievertonn/" target="_blank"/></a>
+
+##
 </div>
-<div align="center">
-<a href="https://github.com/Elieverton6">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elieverton6&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elieverton6&theme=dracula&hide_border=false&&layout=compact"/>
-</a>
+  
+<h3>SKILLS</h3>
+<div style="display: inline-block">
+  
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/nextjs.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+ </div> 
+ 
+##
+
+<div align='center'> 
+
+[![Victor stats](https://github-readme-stats.vercel.app/api?username=victorSmenezes&theme=merko )](https://github.com/victorSmenezes/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorSmenezes&theme=blue-green)](https://github.com/victorSmenezes/github-readme-stats)
+  
 </div>
-</h2>
