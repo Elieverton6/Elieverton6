@@ -1,6 +1,6 @@
 ### Olá, Sou Elieverton Gomes ☕
 
-<h4>Programador Front-End, atualmente cursando na Danki Code e Udemy, aprendendo Front-End e desenvolvendo diversos projetos em JavaScript e ReactJs!
+<h4>Programador Back-End, atualmente cursando na DevMedia, aprendendo ainda mais o mundo Back-END e desenvolvendo diversos projetos em Python e PHP!
 </h4>
 <h4>Sinta-se à vontade para ver meus projetos😁</h4>
 <br>
@@ -16,11 +16,10 @@
 <h3>SKILLS</h3>
 <div style="display: inline-block">
   
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/python.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/php.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/my-sql.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/laravel.png"></code>
  </div> 
  
 ##
