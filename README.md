@@ -1,6 +1,6 @@
 ### Olá, Sou Elieverton Gomes ☕
 
-<h4>Programador Back-End, atualmente cursando na DevMedia, aprendendo ainda mais o mundo Back-END e desenvolvendo diversos projetos em Python e PHP!
+<h4>Programador Back-End, atualmente cursando na DevMedia, aprendendo ainda mais o mundo Back-End e desenvolvendo diversos projetos em Python e PHP!
 </h4>
 <h4>Sinta-se à vontade para ver meus projetos😁</h4>
 <br>
