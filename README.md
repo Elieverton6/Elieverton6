@@ -4,8 +4,6 @@ Desenvolvedor Back-End apaixonado por tecnologia! Atualmente, estou aprofundando
 
 Fique à vontade para explorar meus projetos e acompanhar minha evolução 🚀
 
-<br>
-
 ## 🌐 Redes Sociais  
 <div style="display: flex"> 
   <a href="https://www.linkedin.com/in/elieverton-gomes-320b2223a/" target="_blank">
