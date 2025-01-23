@@ -1,8 +1,18 @@
-# Olá, sou Elieverton Gomes ☕
+# 🚀 Olá, sou Elieverton Gomes ☕
 
-Desenvolvedor Back-End apaixonado por tecnologia! Atualmente, estou aprofundando meus conhecimentos com cursos na DevMedia, focando no universo do Back-End e criando projetos incríveis em **Python** e **PHP**.
+### 💡 Sobre mim
+Tenho **18 anos** e sou apaixonado pelo mundo da programação Back-End!  
+Atualmente, estou mergulhando fundo em **PHP**, **Laravel** e **Python** com cursos na **DevMedia** e **Treina Web**.  
+Além disso, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Descomplica**, sempre buscando evolução e aprendizado constante.
 
-Fique à vontade para explorar meus projetos e acompanhar minha evolução 🚀
+Adoro criar soluções robustas e eficientes, transformando ideias em realidade com código! 🎯
+
+---
+
+## 🌟 Fique à vontade!  
+Explore meus projetos e acompanhe minha jornada de desenvolvimento. Vamos crescer juntos! 😁  
+
+---
 
 ## 🌐 Redes Sociais  
 <div style="display: flex"> 
