@@ -2,7 +2,7 @@
 
 ### 💡 Sobre mim
 Tenho **18 anos** e sou apaixonado pelo mundo da programação Back-End!  
-Atualmente, estou mergulhando fundo em **PHP**, **Laravel** e **Python** com cursos na **DevMedia** e **Treina Web**.  
+Atualmente, estou mergulhando fundo em **PHP**, **Laravel** e **Python** com cursos na **Treina Web**.  
 Além disso, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Descomplica**, sempre buscando evolução e aprendizado constante.
 
 Adoro criar soluções robustas e eficientes, transformando ideias em realidade com código! 🎯
