@@ -1,6 +1,6 @@
-# 🚀 Olá, sou Elieverton Gomes ☕
+## 🚀 Olá, sou Elieverton Gomes ☕
 
-### 💡 Sobre mim
+## 💡 Sobre mim
 Tenho **18 anos** e sou apaixonado pelo mundo da programação Back-End!  
 Atualmente, estou mergulhando fundo em **PHP**, **Laravel** e **Python** com cursos na **Treina Web**.  
 Além disso, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Descomplica**, sempre buscando evolução e aprendizado constante.
@@ -28,10 +28,10 @@ Explore meus projetos e acompanhe minha jornada de desenvolvimento. Vamos cresce
 
 ## 💻 Skills  
 <div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
 </div>  
 
 ---
